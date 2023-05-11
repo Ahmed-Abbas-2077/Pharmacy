@@ -36,9 +36,9 @@ We will review your pull request and merge it if it meets our standards.
 
 Our project would not be possible without the help of the following people:
 
-- Jane Doe (@jane-doe): Project manager
-- John Smith (@john-smith): Lead developer
-- Emily Johnson (@emily-johnson): Designer
+- Ahmed Abbas (Ahmed-Abbas-2077): Project manager
+- Ahmed Ashraf (Ahmed Ashraf): Backend developer
+- Ahmed Sayed (aka D7): Designer and frontend developer
 
 ## 📝 License
 
