@@ -1,6 +1,6 @@
 # 🏥 Online Pharmacy University Project
 
-Welcome to our Online Pharmacy University Project! This project is part of our coursework for the Pharmacy program at XYZ University. Our project aims to create an online pharmacy platform that allows customers to browse and purchase prescription and over-the-counter medications from the comfort of their own homes.
+Welcome to our Online Pharmacy University Project! This project is part of our coursework for the Information systems course in the Faculty of computers and artificial intellignce at Beni-suef University. Our project aims to create an online pharmacy platform that allows customers to browse and purchase prescription and over-the-counter medications from the comfort of their own homes.
 
 ## 📚 Table of Contents
 
